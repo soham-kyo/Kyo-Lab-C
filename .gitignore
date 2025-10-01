@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow specific folders and files
+!Programs/
+!Programs/*.c
+!.gitignore
+!README.md
+!LICENSE
